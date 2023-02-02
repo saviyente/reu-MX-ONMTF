@@ -1,7 +1,7 @@
 Manipulated the EigGap at first to see the impact on the value of the delta. Significant results for delta from 0.95 to 0.2 (and d>=0.5 for finding_k). It resulted in k of 6. When seeing if the edges of the G graph are manipulated at a certain density threshold, there is little impact on k - change from 1 to 2. 
 The data for EigGap delta of 0.2 and d>=0.5 for finding_k is "findK_eg2_d5_k6.mat".
 
-Plotting "findK_eg2_d5_k6.mat":
+Plotting "findK_eg2_d5_k6.mat": (provided "findK_eg21_d5_k6.mat" to show same output data different cut points, for repeatability) 
 
 <img width="754" alt="z_figure" src="https://user-images.githubusercontent.com/76484772/216419307-596d4be6-b76a-4215-82f1-86004026b918.png">
 
