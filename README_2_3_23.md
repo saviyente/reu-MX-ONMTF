@@ -6,7 +6,8 @@ Plotting "findK_eg2_d5_k6.mat": (provided "findK_eg21_d5_k6.mat" to show same ou
 <img width="754" alt="z_figure" src="https://user-images.githubusercontent.com/76484772/216419307-596d4be6-b76a-4215-82f1-86004026b918.png">
 
 -Attached is the Z dendrogram (Z_dgraph_eg2_k6) from code graph_Qd.m. I also attached the clusters graph. 
--I was struggling to understand how ClustersSupra worked concerning matrix and lots of graphing errors. 
+
+I was struggling to understand how ClustersSupra worked concerning matrix and lots of graphing errors. 
   As a result, graphV2_Qd.m plots clusters of all layers given -"findK_eg2_d5_k6.mat", image file is. "clusters_graphV2_fixed_k6_kc3_kpl3". But DOES NOT highlight kc across layers. 
 <img width="521" alt="clusters_eg02_d5" src="https://user-images.githubusercontent.com/76484772/216419354-3d13057b-aa90-449a-8194-56939b03bc4c.png">
 
