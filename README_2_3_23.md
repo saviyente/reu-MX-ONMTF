@@ -13,3 +13,5 @@ I was struggling to understand how ClustersSupra worked concerning matrix and lo
 
 -I also attached clusters for fixed data of k=6, kc=3, kp=3 for comparison – Figure clusters_graphV2_fixed_k6_kc3_kpl3. 
 <img width="526" alt="clusters_fixed" src="https://user-images.githubusercontent.com/76484772/216419378-7cfa4d58-ea87-4d40-a271-193e42703e0e.png">
+
+Side note: NEED TO Feb 10th: *CANCEL due to Doctor Appt
