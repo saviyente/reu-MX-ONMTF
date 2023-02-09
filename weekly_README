@@ -1,0 +1,10 @@
+graph_Q.mlx: this code plots the colors of the cluster labels across all layers, random colors generated, with regular matlab plot
+
+
+
+topoplot_graphV2.mlx: this plots data on top plot, however, it doesn't;t allow cluster to go on top of each other. (Issue 1)
+
+
+
+
+plot_brainnetwork.mlx: GIven starter code by Mebly, issue with idxl. (Issue 2)
