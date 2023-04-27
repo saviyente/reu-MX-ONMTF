@@ -28,6 +28,10 @@ function [H_bestNMI,Hl_bestNMI,ClustersSupra] = MX_ONMTF_real_OLD(A,k,kc,kpl)
 - Output: all graphs interpreting data
 - NOTE: `Component_brainRegion.xlsx` file contains the components number verse what the components are
 - Output data file used: `COV_run10_Kc1.fig`, `COV_run10_Kc2.fig`, `COV_clusterId.fig`
+![Screen Shot 2023-04-27 at 11 26 13 AM](https://user-images.githubusercontent.com/76484772/234910732-fbb8ed53-da7f-4c14-aafd-d3fec2d22016.png)
+![Screen Shot 2023-04-27 at 11 26 18 AM](https://user-images.githubusercontent.com/76484772/234910748-34910baa-6bef-4298-8a20-11a126aee351.png)
+![Screen Shot 2023-04-27 at 11 26 44 AM](https://user-images.githubusercontent.com/76484772/234910765-8a361a80-8a56-4219-aad7-b98e8a75a7bb.png)
+
 
 ## Interpretation
 
