@@ -17,7 +17,7 @@ Output data file used: "COV_ClustersSupra_run10.mat", contains ClustersSupra lab
 Step 3: Using the data Plot the Graphs
 File: "step3_intercluster_COV.mlx"
 Output: all graphs interpreting data
-*NOTE: excel file contains the compoents number verse what the compnents are*
+*NOTE: Component_brainRegion.xlsx file contains the compoents number verse what the compnents are*
 
 
 Interpretation:
